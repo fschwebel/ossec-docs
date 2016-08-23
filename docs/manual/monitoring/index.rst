@@ -64,7 +64,7 @@ options.
 Monitoring logs 
 --------------- 
 
-With in OSSEC there are two major methods for monitoring logs: file and process.  Each 
+Within OSSEC there are two major methods for monitoring logs: file and process.  Each 
 method has its own page and examples. 
 
 .. toctree::
